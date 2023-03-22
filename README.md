@@ -53,3 +53,5 @@
 * selenium~=4.8.0
 * seletools~=1.3.0
 * pytest~=7.2.2
+
+## HTML Report (example)
