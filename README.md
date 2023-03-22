@@ -55,3 +55,4 @@
 * pytest~=7.2.2
 
 ## HTML Report (example)
+![html screenshot](https://github.com/alexkuzh/Dotdashcom/blob/main/report-html.png)
