@@ -1,4 +1,4 @@
-# Dotdashcom Webdriver Tests
+# PageObject Webdriver Tests
 ## Prerequisites
 * Docker
 * Git
